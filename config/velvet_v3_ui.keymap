@@ -82,9 +82,9 @@
 
         Symbols {
             bindings = <
-&kp PRINTSCREEN  &trans  &kp PLUS  &kp MINUS  &kp EQUAL  &kp DOLLAR                      &kp CARET  &kp DQT   &kp UNDER  &kp SQT   &trans    &trans
-&trans           &trans  &kp LT    &kp HASH   &kp GT     &kp AT                          &kp PRCNT  &kp LBRC  &kp SEMI   &kp RBRC  &kp EXCL  &kp QUESTION
-&trans           &trans  &kp STAR  &kp COLON  &kp UNDER  &kp PRCNT                       &kp AT     &kp PIPE  &kp TILDE  &kp AMPS  &trans    &trans
+&kp TILDE        &trans  &kp PLUS  &kp MINUS  &kp EQUAL  &kp DOLLAR                      &kp CARET  &kp DQT   &kp UNDER  &kp SQT   &trans    &trans
+&kp GRAVE        &trans  &kp LT    &kp HASH   &kp GT     &kp AT                          &kp PRCNT  &kp LBRC  &kp SEMI   &kp RBRC  &kp EXCL  &kp QUESTION
+&kp PRINTSCREEN  &trans  &kp STAR  &kp COLON  &kp UNDER  &kp PRCNT                       &kp AT     &kp PIPE  &kp TILDE  &kp AMPS  &trans    &trans
                          &kp AMPS  &kp PIPE   &trans     &mo 3       &kp HASH    &trans  &trans     &trans    &trans     &trans
             >;
 
